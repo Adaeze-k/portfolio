@@ -408,6 +408,19 @@ footer p{
 	font-size: 0.9rem;
 }
 
+.cvhead {
+	padding: 50px;
+	font-size: 30px;
+	font-weight: 600;
+	color: #1c3548;
+}
+
+.cv img{
+	display: block;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
 nav .menu-btn,
 .menu-icon{
 		display:none;
